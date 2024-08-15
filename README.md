@@ -7,7 +7,7 @@
 - I'm interested in many areas of computer science and engineering - especially ML systems, security, and full stack development.
 - My main programming languages are Python, Java, Typescript and C++. 
 ## Contact
-- You can reach me at myles.anderson@princeton.edu, or on LinkedIn at https://www.linkedin.com/in/myles-anderson/.
+- You can reach me at myles[dot]anderson[at]princeton[dot]edu, or on LinkedIn at https://www.linkedin.com/in/myles-anderson/.
 
 <!---
 myles332/myles332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
