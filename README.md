@@ -1,7 +1,7 @@
 ## Welcome!
 - 👋 Hi! I'm Myles Anderson, and I'm currently studying Electrical and Computer Engineering at Princeton with minors in Statistics & Machine Learning and Computer Science.
 ## Projects
-- I'm currently working on [alphaXiv](https://alphaxiv.org), an open online forum for ML researchers.
+- I'm currently working with Stanford AI Lab on [alphaXiv](https://alphaxiv.org), an open online forum for ML researchers.
 - I'm also building an AI streaming app called [Spinning](https://spinning1.vercel.app).
 ## Interests / Skills
 - I'm interested in many areas of computer science and engineering - especially ML systems, security, and full stack development.
