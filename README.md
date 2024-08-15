@@ -4,7 +4,7 @@
 - I'm currently working on [alphaXiv](https://alphaxiv.org), an open online forum for ML researchers.
 - I'm also building an AI streaming app called [Spinning](https://spinning1.vercel.app).
 ## Interests / Skills
-- I'm interested in many areas of computer science and engineering - especially ML systems, security and full stack development.
+- I'm interested in many areas of computer science and engineering - especially ML systems, security, and full stack development.
 - My main programming languages are Python, Java, Typescript and C++. 
 ## Contact
 - You can reach me at myles.anderson@princeton.edu, or on LinkedIn at https://www.linkedin.com/in/myles-anderson/.
