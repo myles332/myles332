@@ -3,7 +3,7 @@
 ## Projects
 - I'm currently working on [TigerJunction](https://junction.tigerapps.org/recalplus) as part of TigerApps, Princeton's student developer team.
 - I've also worked with Stanford AI Lab on [alphaXiv](https://alphaxiv.org), an open online forum for ML researchers.
-- I'm also building an AI streaming app called [Spinning](https://spinning1.vercel.app).
+- Check out my AI streaming app, [Spinning](https://spinning1.vercel.app)!
 ## Interests / Skills
 - I'm interested in many areas of computer science and engineering - especially ML systems, security, and cloud computing.
 - My main programming languages are Python, Java, Typescript and C++. 
